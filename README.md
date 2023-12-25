@@ -15,9 +15,11 @@ That's when I really started programming. Especially with the Tkinter module. An
 After that nothing interesting really happened. I just kept impoving myself.
 
 # More About Me
-I know 2 languages:
-1. English (Probably Good Enough)
+I know 3 languages:
+1. English (Fluent)
 2. Turkish (Native)
+3. Japanese (Somewhat)
+
 
 Altough my native language is Turkish, Since I speak English more, I know more English than Turkish.
 I am actually better than the average at math and solve equations faster. My favourite subject in school is physics and least favourite is IT.
